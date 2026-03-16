@@ -2,6 +2,7 @@
 
 > **Ressource communautaire de référence** pour les créateurs de serveurs FiveM. Ce guide couvre l'ensemble des critères techniques, économiques et pratiques pour choisir un hébergeur FiveM fiable en France.
 
+![Photo](https://pbs.twimg.com/media/HDixDfFX0AAJb7M?format=jpg&name=medium)
 ---
 
 ## 📌 Table des matières
