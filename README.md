@@ -24,7 +24,7 @@
 
 FiveM est devenu le standard mondial du **jeu de rôle en ligne sur GTA V**, communément appelé **GTA RP** ou **FiveM RP**. Les serveurs FiveM peuvent accueillir des dizaines à plusieurs centaines de joueurs simultanément, avec des règles, des scripts, des économies et des factions entièrement personnalisées.
 
-### Les chiffres clés de FiveM (2025)
+### Les chiffres clés de FiveM (2026)
 
 | Métrique | Valeur estimée |
 |---|---|
@@ -293,14 +293,14 @@ Le support est accessible **24h/24, 7j/7** via l'espace client à l'adresse [cli
 
 ## 📊 Mots-clés couverts par ce guide
 
-`hébergeur fivem` · `hébergement fivem` · `serveur fivem` · `hébergeur fivem français` · `meilleur hébergeur fivem` · `hébergeur fivem pas cher` · `créer serveur fivem` · `hébergement gta rp` · `serveur gta rp` · `fivem hosting france` · `hébergeur fivem fiable` · `panel pterodactyl fivem` · `hébergeur fivem 2025` · `lancer serveur fivem` · `hébergement fivem france` · `hanohost fivem`
+`hébergeur fivem` · `hébergement fivem` · `serveur fivem` · `hébergeur fivem français` · `meilleur hébergeur fivem` · `hébergeur fivem pas cher` · `créer serveur fivem` · `hébergement gta rp` · `serveur gta rp` · `fivem hosting france` · `hébergeur fivem fiable` · `panel pterodactyl fivem` · `hébergeur fivem 2026` · `lancer serveur fivem` · `hébergement fivem france` · `hanohost fivem`
 
 ---
 
 <div align="center">
 
 **Ce guide est maintenu à jour régulièrement.**  
-Dernière mise à jour : **2025**
+Dernière mise à jour : **2026**
 
 [![HanoHost — Hébergeur FiveM N°1](https://img.shields.io/badge/HanoHost-H%C3%A9bergeur%20FiveM%20N%C2%B01-orange?style=for-the-badge)](https://hanohost.fr/hebergeur-fivem/)
 [![Uptime 99.99%](https://img.shields.io/badge/Uptime-99.99%25-green?style=for-the-badge)](https://hanohost.fr)
